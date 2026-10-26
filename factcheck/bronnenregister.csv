@@ -1,0 +1,73 @@
+﻿groep;regel;bron;verwijzing;status;opmerking
+Definities;Klein schip = romplengte kleiner dan 20 m (met uitzonderingen: o.a. veerpont, passagiersschip, vissersschip, duwbak);S3 APSB;art. 1.01;BEVESTIGD;
+Definities;"Zeilschip = schip dat uitsluitend door zijn zeilen wordt voortbewogen; zeilen én motor = motorschip";S3 APSB;art. 1.01;BEVESTIGD;
+Definities;Zeilplank = klein zeilschip;S3 APSB;art. 1.01 (geen definitie), 2.02 lid 4 c;ONBEVESTIGD;"Zeilplank komt niet voor in de definities; staat enkel bij de vrijstelling van kentekens."
+Definities;"Kenteken klein schip: immatriculatienummer aan beide zijden, anders naam; vrijstellingen (kano, kajak, waterfiets, zeilplank, surfplank, vlot, opblaasbaar bootje zonder motor, < 2,5 m)";S3 APSB;art. 2.02 lid 1–4;BEVESTIGD;
+Lichten (binnenwater);"Motorschip: toplicht voor, boordlichten, heklicht; klein motorschip: toplicht minstens 1 m boven de boordlichten";S3 APSB;art. 3.08 lid 1, 3.13 lid 1;BEVESTIGD;
+Lichten (binnenwater);Tweede toplicht: facultatief, verplicht boven 110 m;S3 APSB;art. 3.08 lid 2;BEVESTIGD;Op zee (COLREG regel 23) is het verplicht vanaf 50 m.
+Lichten (binnenwater);Snel schip (> 40 km/u): twee gele snelle flikkerlichten;S3 APSB;art. 3.08 lid 4;BEVESTIGD;
+Lichten (binnenwater);"Sleepboot: twee of drie toplichten boven elkaar, geel heklicht; duwstel en gekoppeld samenstel";S3 APSB;art. 3.09, 3.10, 3.11;BEVESTIGD;
+Lichten (binnenwater);Groot zeilschip: rood boven groen is verplicht;S3 APSB;art. 3.12;BEVESTIGD;
+Lichten (binnenwater);"Open klein motorschip < 7 m (max. 13 km/u): één wit rondom licht; klein zeilschip < 7 m: één wit rondom licht";S3 APSB;art. 3.13 lid 2 en 5;BEVESTIGD;
+Lichten (binnenwater);"Schip op spierkracht: wit rondom licht; zonder mast volstaat een lantaarn die tijdig getoond wordt";S3 APSB;art. 3.13 lid 6;BEVESTIGD;Letterlijk gelezen 26-10-2026.
+Lichten (binnenwater);Zeilschip dat ook de motor gebruikt: overdag zwarte kegel met de punt naar beneden;S3 APSB;art. 3.13 lid 5/1;BEVESTIGD;
+Lichten (binnenwater);Blauwe lichten en kegels (1, 2 of 3);S3 APSB;art. 3.14;BEVESTIGD;
+Lichten (binnenwater);"Veerpont: groene bol overdag; groen boven wit 's nachts";S3 APSB;art. 3.16;BEVESTIGD;
+Lichten (binnenwater);"Groot schip ten anker: twee witte rondom lichten (hoogtes); gemeerd: één wit licht";S3 APSB;art. 3.20;ONBEVESTIGD;"Art. 3.20 niet leesbaar; hoogtes uit de vragen en uitleg gehaald."
+Lichten (binnenwater);Lichten van vissende schepen op de binnenwateren;S3 APSB;art. 3.35;ONBEVESTIGD;"Geen examenstof; tekst niet ingezien."
+Lichten (binnenwater);Buitengewoon obstakel: rood-rood-groen / bol-bol-kegel;–;–;ONBEVESTIGD;In geen enkele geraadpleegde reglementstekst teruggevonden.
+Lichten (zee);"Tweede toplicht verplicht vanaf 50 m; treiler groen boven wit; beperkt manoeuvreerbaar rood-wit-rood";S11 COLREG;regel 23, 26, 27;BEVESTIGD;Regels t.e.m. 27 ingezien.
+Lichten (zee);Roeiboot: wit licht tijdig tonen;S11 COLREG;regel 25 d;BEVESTIGD;
+Verkeerstekens;Betekenis van de A-, B-, C-, D- en E-borden;S5 aanhangsel 7 APSB (versie 01.05.2014);A.1–A.20, B.1–B.11, C.1–C.5, D.1–D.2, E.1–E.24;BEVESTIGD;"Betekenis gelezen; de vorm van de pictogrammen is niet met het origineel vergeleken."
+Verkeerstekens;B.6: maximumsnelheid in km/u (geldt ten opzichte van de oever?);S5 aanhangsel 7 APSB;B.6;ONBEVESTIGD;"Dat het getal ten opzichte van de oever geldt, staat niet in aanhangsel 7; berekeningen nemen dit aan en zeggen dat."
+Verkeerstekens;C.1 diepte, C.2 doorvaarthoogte, C.3 breedte: getallen in meter;S5 aanhangsel 7 APSB;C.1–C.3;BEVESTIGD;
+Verkeerstekens;"A.17 einde zone zeilplanken; E.20 begin zone zeilplanken; E.17 waterskiën; E.21 snelvaren";S5 aanhangsel 7 APSB;A.17, E.17, E.20, E.21;BEVESTIGD;
+Betonning;Europees systeem (IALA-A, SIGNI): bakboord rood en stomp, stuurboord groen en spits;S10, S19 (NL BPR bijlage 8), S24;SIGNI / IALA MBS regio A;BEVESTIGD · SECUNDAIRE BRON;"Belgische SIGNI-tekst niet rechtstreeks gelezen; NL BPR bijlage 8 is SIGNI-gebaseerd."
+Betonning;"IALA-B: kleuren omgekeerd (stuurboord rood en spits, bakboord groen en stomp); wereldwijd stomp = bakboord, spits = stuurboord";S24 (ialacolreg.com);IALA MBS regio B;BEVESTIGD · SECUNDAIRE BRON;Bron noemt de vormen 'usually'.
+Betonning;Oevertekens SIGNI: rechteroever vierkant op de vlakke zijde, linkeroever vierkant op de punt;S10, S19 (NL BPR bijlage 8);5.1.1 en 5.1.2;BEVESTIGD · SECUNDAIRE BRON;
+Geluid en marifoon;Geluidsseinen (korte en lange stoten, mistseinen) volgens APSB;"S1 examenleerstof; NL BPR";APSB hoofdstuk 4;VEREENVOUDIGD;Hoofdstuk 4 niet in de Belgische tekst gelezen.
+Geluid en marifoon;Marifoon verplicht voor (motor)vaartuigen van meer dan 7 m;"S13 BIPT; S25 Vademecum 2014";–;BEVESTIGD · SECUNDAIRE BRON;Uitrustingstekst (art. 4.05) niet ingezien.
+Geluid en marifoon;"ATIS op de binnenwateren; DSC (kanaal 70) verboden";"S26 BIPT Handleiding VHF 2025; S25 BIPT 2004 / Vademecum 2014";–;BEVESTIGD;"Handleiding 2025: 'Het gebruik van ATIS is verplicht op de binnenwateren'; 'DSC is verboden op de binnenwateren'. De BIPT-folder noemt de ATIS-code 'eventueel': dat verschil is niet opgehelderd."
+Geluid en marifoon;Stationsvergunning (BIPT) en bedieningscertificaat (VHF binnenwater, SRC zee);S13 BIPT;–;BEVESTIGD;
+Vaarregels;"Voorrangsladder: oploper wijkt; stuurboordwal; groot voor klein; hoofd- voor nevenvaarwater; zeil > spierkracht > motor; rechts voor";S6, S1;APSB hoofdstuk 6;VEREENVOUDIGD;"Didactische ladder van de vaarscholen; hoofdstuk 6 niet in de Belgische tekst gelezen."
+Vaarregels;Grote schepen onderling zonder stuurboordwal: van stuurboord gaat voor;–;–;ONBEVESTIGD;"Komt uit de didactische ladder; q1242."
+Vaarregels;Sluis: in volgorde van aankomst, klein schip dat samen met grote schepen schut, vaart erna in;"S1 examenleerstof; NL BPR";APSB art. 6.28;VEREENVOUDIGD;Art. 6.28 niet in de Belgische tekst gelezen.
+Vaarregels;'Klein schip kiest een plaats op afstand' en '10 m van een schip met één blauwe kegel';–;APSB art. 6.28;ONBEVESTIGD;q75, q1138.
+Bijzondere reglementen;"Sluis: vaartuig minstens 0,30 m korter (roer inbegrepen) en 0,20 m smaller; tolerantie 0,10 m in sluizen tot 5,20 m";S20, S21 ARS 1935;art. 1 lid 2;BEVESTIGD;Twee onafhankelijke bronnen.
+Bijzondere reglementen;Hoogte van lading en vaste delen: minstens 0,30 m onder de vrije hoogte;S20, S21 ARS 1935;art. 1 lid 3;BEVESTIGD;Twee onafhankelijke bronnen.
+Bijzondere reglementen;Zeilvaartuigen strijken de zeilen op minstens 200 m van bruggen en sluizen;S20 ARS 1935;art. 29;BEVESTIGD · 1 BRON;Geconsolideerde tekst t.e.m. 09-03-2007.
+Bijzondere reglementen;"Beweegbare bruggen worden alleen geopend als de doorvaart het onontbeerlijk maakt; mast strijken waar mogelijk";S20 ARS 1935;art. 32;BEVESTIGD · 1 BRON;Tweede zin van het artikel is een samenvatting van de bron.
+Bijzondere reglementen;"Maas: 16 km/u ten opzichte van de oever; 9 km/u op de rechterhelft km 6.790–8.860; snelle vakken Eisden-Ternaaien en Maaseik";S22 Maasreglement;art. 6.33a lid 1–4;BEVESTIGD · KOPIE ZONDER VERSIE;"Letterlijk gelezen in twee opeenvolgende raadplegingen; wijzigingsdatum van de kopie onbekend."
+Bijzondere reglementen;"Maas: in de snelle vakken niet sneller dan 16 km/u vóór 10 u, na zonsondergang, < 20 m oever, < 50 m aanleginrichting, evenement, zicht < 150 m; waterskiën alleen in die vakken";S22 Maasreglement;art. 6.33b lid 1–4;BEVESTIGD · KOPIE ZONDER VERSIE;
+Bijzondere reglementen;Maas: zeilplank, zwemmen en duiken verboden in de snelle vakken;S22 Maasreglement;art. 6.33c;BEVESTIGD · KOPIE ZONDER VERSIE;
+Bijzondere reglementen;Maas: verkeerstekens en markering;–;–;ONBEVESTIGD;Niet ingezien.
+Bijzondere reglementen;Brussel-Schelde: 3 lange stoten voor een draaibrug (+ 2 korte bij > 9,10 m), stoppen op 100 m, mast strijken, plezier < 15 m vult kolk aan;S23 (etaamb, oorspronkelijke tekst);BVR 18/11/2005 art. 11 en 14 §4;ONBEVESTIGD;Latere wijzigingen of vervanging niet gecontroleerd.
+Bijzondere reglementen;Brussel-Schelde: meldingsplicht;S23;artikel onbekend;ONBEVESTIGD;Twee raadplegingen spreken elkaar tegen over art. 3 §1.
+Examen en wetgeving;"Examen 30 vragen, verdeling 12 reglementen / 10 navigatie / 8 veiligheid-manoeuvres-meteo-EHBO; slagen 50 % per onderdeel en 60 % totaal";S12 FOD Mobiliteit;pagina 'Beperkt en algemeen stuurbrevet';BEVESTIGD;"Gelezen 25-10-2026; pagina nu achter captcha."
+Examen en wetgeving;"Minimumleeftijd 16 jaar; medisch attest; examenprijs";S12 FOD Mobiliteit;idem;BEVESTIGD;'Inschrijven vanaf 15' niet bevestigd.
+Examen en wetgeving;"Brevetplicht boven 20 km/u of boven 15 m; op zee sinds 1-1-2022";S14 WWSV;–;BEVESTIGD · SECUNDAIRE BRON;
+Examen en wetgeving;Algemeen stuurbrevet 'tot 6 zeemijl';KB 28/06/2019 (etaamb);art. 1.3 (zone 4);ONBEVESTIGD;"Zone 4 = 'vanaf het strand tot 6 zeemijl'; koppeling aan het brevet niet bevestigd."
+Zee;Verkeersscheidingsstelsels in magenta op de zeekaart;–;–;ONBEVESTIGD;In drie bronnen niet bevestigd.
+Navigatie;"LAT en TAW als reductievlakken; WGS84";S1 examenleerstof;–;BEVESTIGD;
+Navigatie;Regel van twaalfden en alle rekenvragen (schaal, tijd, stroom, sluizen, TAW/KP, brandstof);eigen herberekening;–;VEREENVOUDIGD;"Standaardmethode; alle rekenresultaten opnieuw nagerekend (26-10-2026): geen rekenfouten."
+Navigatie;"Log meet snelheid door het water; dieptemeter meet diepte onder de transducer";S1 (basisbegrippen) + algemene kennis;–;VEREENVOUDIGD;Nieuw 26-10-2026.
+Navigatie;Brandstofreserve van een derde;–;–;VUISTREGEL;Geen reglementaire waarde.
+Veiligheid;Reddingsmiddel per opvarende op de binnenwateren (gordel, kussen of vest);"S25 Vademecum 2014; S18";–;ONBEVESTIGD;Actuele lijst (MB 12/11/2020) niet leesbaar.
+Veiligheid;EHBO: reanimatie 30:2, 100–120 per minuut, 5–6 cm diep;gezondheidenwetenschap.be (ERC 2021), Rode Kruis;–;BEVESTIGD · SECUNDAIRE BRON;Gelezen 26-10-2026.
+Veiligheid;"EHBO: bij verdrinking eerst 5 beademingen; verslikking 5 rugslagen + 5 buikstoten; brandwonde 10–20 minuten koelen";"S17 Rode Kruis (brandwonde); verder algemene kennis";–;NIET BRONGECONTROLEERD;"Standaard ERC-richtlijnen; in deze sessie niet in een bron teruggelezen (verdrinking, verslikking)."
+Veiligheid;Brandklassen A–D (F), blusmiddelen, motoren, anodes, gas, MARPOL;algemene kennis, examenleerstof (S1+);–;VEREENVOUDIGD;"Geen reglementaire getallen; niet tegen een norm gelegd."
+Geluid en marifoon;Bedieningscertificaat is 5 jaar geldig en moet daarna hernieuwd worden;"S13 BIPT-folder; S26 BIPT Handleiding VHF 2025";–;BEVESTIGD;"Letterlijk: 'slechts 5 jaar geldig'; 'Dit moet na 5 jaar hernieuwd worden'."
+Geluid en marifoon;Dualwatch verboden in de binnenvaart (twee kanalen beluisteren kan alleen met twee toestellen);S26 BIPT Handleiding VHF 2025;–;BEVESTIGD;q115.
+Geluid en marifoon;"Schip-schipkanalen binnenvaart: zendvermogen automatisch verlaagd tot ten hoogste 1 W; kanaal 77 laag vermogen (0,5 à 1 W)";S26 BIPT Handleiding VHF 2025;–;BEVESTIGD;q101. De volledige kanalenlijst van de handleiding is niet teruggelezen.
+Zee;COLREG regel 35: mistseinen (motorschip met vaart 1 lang, zonder vaart 2 lang, rest lang-kort-kort, alle ≤ 2 min);S27 Cult of Sea (secundaire bron);regel 35 a–c;BEVESTIGD · SECUNDAIRE BRON;Lijst van schepen in (c) nagekeken en in de theorie aangevuld.
+Zee;"COLREG regel 18: onmanoeuvreerbaar > beperkt manoeuvreerbaar > vissend > zeil > motor; door diepgang beperkt valt buiten de ladder";S11 USCG Navigation Rules;regel 18;BEVESTIGD · SECUNDAIRE BRON;
+Zee;COLREG regels 28–34 en 36–37 (dagmerken en lichten, aan de grond, ten anker, manoeuvre- en oploopseinen, noodseinen);–;regel 28, 30, 33, 34, 36, 37;NIET BRONGECONTROLEERD;S11 reikt tot regel 27: deze regels zijn niet in een bron teruggelezen.
+Lichten (binnenwater);"Klein schip stilliggend: één wit rondom licht; overdag een zwarte bol als het niet aan de oever ligt";–;art. 3.20 lid 4;NIET BRONGECONTROLEERD;"Art. 3.20 niet leesbaar; op zee komt dit overeen met COLREG regel 30 (schip < 50 m: één wit licht)."
+Lichten (binnenwater);Overige lichten en tekens van art. 3.17–3.38 (rode wimpel, onmanoeuvreerbaar, werktuig, blauw en geel flikkerlicht, rood boven wit, beperkt manoeuvreerbaar, vlag A, mijnenopruiming, loodsboot);"S19 NL BPR (art. 3.25); examenleerstof S1";art. 3.17, 3.18, 3.25, 3.27–3.29, 3.34, 3.36–3.38;NIET BRONGECONTROLEERD;"Belgische tekst voorbij art. 3.16 niet gelezen; alleen art. 3.25 is secundair bevestigd via het NL BPR."
+Vaarregels;Ligplaats bij schepen met blauwe lichten of kegels: minstens 10, 50 of 100 m;–;art. 7.07;NIET BRONGECONTROLEERD;"Art. 7.07 staat op de FOD-lijst (S1+); de afstanden zijn niet teruggelezen (q499, q553, flashcard 412 en bibliotheek L118)."
+Vaarregels;"Hinderlijke waterbeweging beperken (art. 6.20); waterskiën alleen bij daglicht en goed zicht, met een tweede persoon aan boord (art. 6.35)";–;art. 6.20, 6.35;NIET BRONGECONTROLEERD;"Artikelen staan op de FOD-lijst (S1+); de tekst van hoofdstuk 6 is niet gelezen (q589, q1397)."
+Vaarregels;"Voorrangsladder tussen 'groot voor klein' en 'hoofd- voor nevenvaarwater'; uitzondering bij betond nevenvaarwater";–;APSB hoofdstuk 6;ONBEVESTIGD;Situatie S27 en kaart 117 hebben nu een melding.
+Veiligheid;Zwemverbod op de bevaarbare waterwegen in Vlaanderen, behalve in aangeduide zones (bord E.105);S5 aanhangsel 7 (alleen E.105);–;NIET BRONGECONTROLEERD;Het bord is bevestigd, het algemene verbod niet teruggelezen.
+Examen en wetgeving;Inschrijven voor het theorie-examen kan vanaf 15 jaar;–;–;ONBEVESTIGD;Nu ook in theorie (hoofdstuk Wetgeving) en flashcard 218 als ONBEVESTIGD aangeduid.
+Examen en wetgeving;"Verzekering burgerlijke aansprakelijkheid: sterk aangeraden; niet bevestigd als verplicht";–;–;NIET BRONGECONTROLEERD;FOD-pagina achter captcha (S28).
+Betonning;Lichtkarakteristieken en tekens van SIGNI-tonnen, splitsingston (wit isofase 2 s), oevertekens;S19 NL BPR bijlage 8 (secundaire bron);bijlage 8 NL BPR;BEVESTIGD · SECUNDAIRE BRON;De Belgische bijlage 8 van het APSB is niet gelezen.

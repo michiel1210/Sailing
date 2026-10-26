@@ -1,0 +1,284 @@
+{
+ "datum": "2026-10-26",
+ "bestand": "/home/claude/repos/collection-of-all/index.html",
+ "vergeleken_met": "/tmp/claude-0/-home-claude/aabf8990-0c45-55f9-9dc3-3847b9c4b577/scratchpad/final_run/oud_0e219d7.html",
+ "geslaagd": 55,
+ "totaal": 55,
+ "tests": [
+  {
+   "name": "alle 1587 vroegere vragen bestaan nog",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "geen dubbele vraag-id",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "elke gewijzigde vraag staat in het finale logboek (44 gewijzigd)",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "aantal gewijzigde vragen komt overeen met de teller in het rapport",
+   "pass": true,
+   "info": "44 vs 44"
+  },
+  {
+   "name": "nieuwe vragen: 23 = teller",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "alle nieuwe vragen dragen bron en label \"finale controle\"",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "nieuwe vragen: antwoord in bereik, unieke opties, uitleg aanwezig",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "Brussel-Schelde-vragen (4) zijn ONBEVESTIGD",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "elke ONBEVESTIGDE vraag heeft een reden (uw)",
+   "pass": true,
+   "info": "onbevestigd: 27"
+  },
+  {
+   "name": "q80002: sluis 90 × 12 → maximaal 89,70 × 11,80; antwoord 89,60 × 11,75 past, afleiders niet",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "q80004: 4,50 − 4,25 = 0,25 < 0,30 → Nee",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "q80032: 10 + 3 = 13 km/u",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "q80034: 2,40 + 0,30 − 0,90 = 1,80 m",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "q80012: Maas 9 km/u rechterhelft; q80011: 16 km/u",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "flashcards: 528 + 8 = 536",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "bestaande flashcards: alleen de gelogde zijn gewijzigd (131,218,221)",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "bibliotheek ongewijzigd (295)",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "tekeningen (SV) ongewijzigd (513)",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "examenreeksen en examenfocus ongewijzigd",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "situaties: alleen S27 gewijzigd, 30 aanwezig",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "examenreeksen: alle vragen bestaan nog",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "theorie: alle 92 kopjes en 17 hoofdstukken nog aanwezig",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "theorie: drie nieuwe delen (ARS, Maas, dieptemeter en log)",
+   "pass": true,
+   "info": "Bijzondere reglementen: Gemeenschappelijke Maas en Kanaal Brussel–Schelde | Algemeen Reglement der Scheepvaartwegen (1935) | Dieptemeter en log"
+  },
+  {
+   "name": "theorie: omvang niet gekrompen (11337 → 12218 woorden)",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "theorie: IALA-B-nuance bij \"de vorm liegt nooit\"",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "theorie: dubbele \"(art. 3.13 lid 6)\" in één cel opgeruimd",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "theorie: COLREG 18 zonder \"door diepgang beperkt\" in de ladder",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "theorie: \"inschrijven vanaf 15\" is ONBEVESTIGD gemarkeerd",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "theorie: marifoon: 5 jaar, dualwatch en 1 W volgens BIPT-handleiding",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "theorie: schutten toont melding dat art. 6.28 niet gelezen is",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "theorie: ARS-tabel (0,30 / 0,20 / 0,30 / 200 m)",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "theorie: Maas 16 km/u, 9 km/u, 6.33c",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "register: 72 regels met geldige status",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "register: elke regel heeft een bron of status ONBEVESTIGD/NIET BRONGECONTROLEERD/VEREENVOUDIGD",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "register: BEVESTIGD zonder bron komt niet voor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "open punten: 13 met onderwerp, reden en voorstel",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "logboek: 107 regels, doorlopend genummerd",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "logboek: elke wijziging noemt een reden en een bron",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "bronnenlijst: 11 bronnen, S26 en S27 aanwezig",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "dashboard: noemt finale controle en onbevestigde vragen, niet meer \"gecontroleerde examenvragen\"",
+   "pass": true,
+   "info": "Alle leerstof uit 29 repositories in één leeromgeving: 1610 examenvragen (27 nog onbevestigd), 536 flashcards, 295 afbeeldingen, 17 samenvattingen en 11 simulaties. Getoetst aan de Belgische regelgeving voor zover die online leesbaar was: factcheck van 25-10-2"
+  },
+  {
+   "name": "introductie: grenzen van de controle genoemd",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "onbevestigde vragen lekken niet naar examens of pool",
+   "pass": true,
+   "info": "{\"u\":0,\"n\":2400,\"pool\":0,\"incU\":25}"
+  },
+  {
+   "name": "nieuwe, bevestigde vragen komen in examens voor, de onbevestigde niet",
+   "pass": true,
+   "info": "17 van 19 gezien in 150 examens"
+  },
+  {
+   "name": "nieuwe vragen spelen: elke vraag toont de bron of de ONBEVESTIGD-melding na antwoorden",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "hoofdstuk Bruggen & sluizen toont het ARS-deel en de bron",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "hoofdstuk Reglementen toont het Maas-deel",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "hoofdstuk Navigatie toont Dieptemeter en log met uitgewerkt voorbeeld",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "hoofdstuk Wetgeving: bronnenzin over niet-gelezen hoofdstukken en ONBEVESTIGD bij leeftijd 15",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "zoeken vindt Maas, ARS, dieptemeter en Brussel-Schelde",
+   "pass": true,
+   "info": "{\"maas\":10,\"ars\":8,\"log\":7,\"bs\":5}"
+  },
+  {
+   "name": "Kwaliteitscontrole: finale paneel met tellers",
+   "pass": true,
+   "info": "{\"head\":true,\"tiles\":[\"44\",\"23\",\"72\",\"13\"],\"regRows\":72,\"logRows\":107}"
+  },
+  {
+   "name": "register filtert op tekst en op status; log filtert op vraagnummer",
+   "pass": true,
+   "info": "{\"maas\":4,\"onb\":15,\"onbBad\":0,\"all\":72,\"lg\":1}"
+  },
+  {
+   "name": "open punten zichtbaar: captcha, COLREG 28–37, art. 3.17–3.38",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "flashcards-weergave toont het nieuwe totaal (536)",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "mobiel 390 px: geen horizontale scroll in dashboard, audit, nieuwe theoriedelen, situaties, spiek, tabellen",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "geen JavaScript-fouten",
+   "pass": true,
+   "info": ""
+  }
+ ]
+}

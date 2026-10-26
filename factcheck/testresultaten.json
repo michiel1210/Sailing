@@ -1,0 +1,517 @@
+[
+ {
+  "name": "data: alle vragen geldig (antwoordindex, unieke opties, uitleg, afbeeldingen, niveau)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "data: unieke vraag-id's",
+  "pass": true,
+  "info": "1587/1587"
+ },
+ {
+  "name": "html: alle scripts geladen",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "afbeeldingen als antwoordopties zichtbaar (alle beeldvragen)",
+  "pass": true,
+  "info": "130 vragen, te klein: 0"
+ },
+ {
+  "name": "view dashboard rendert",
+  "pass": true,
+  "info": "1690 tekens"
+ },
+ {
+  "name": "view introductie rendert",
+  "pass": true,
+  "info": "1577 tekens"
+ },
+ {
+  "name": "view studieplanner rendert",
+  "pass": true,
+  "info": "550 tekens"
+ },
+ {
+  "name": "view theorie rendert",
+  "pass": true,
+  "info": "2610 tekens"
+ },
+ {
+  "name": "view beperkt rendert",
+  "pass": true,
+  "info": "3684 tekens"
+ },
+ {
+  "name": "view algemeen rendert",
+  "pass": true,
+  "info": "2252 tekens"
+ },
+ {
+  "name": "view vragen rendert",
+  "pass": true,
+  "info": "5799 tekens"
+ },
+ {
+  "name": "view oefenexamens rendert",
+  "pass": true,
+  "info": "2986 tekens"
+ },
+ {
+  "name": "view foutenanalyse rendert",
+  "pass": true,
+  "info": "885 tekens"
+ },
+ {
+  "name": "view moeilijk rendert",
+  "pass": true,
+  "info": "10517 tekens"
+ },
+ {
+  "name": "view flashcards rendert",
+  "pass": true,
+  "info": "934 tekens"
+ },
+ {
+  "name": "view afbeeldingen rendert",
+  "pass": true,
+  "info": "14310 tekens"
+ },
+ {
+  "name": "view situaties rendert",
+  "pass": true,
+  "info": "7661 tekens"
+ },
+ {
+  "name": "view tabellen rendert",
+  "pass": true,
+  "info": "22402 tekens"
+ },
+ {
+  "name": "view spiek rendert",
+  "pass": true,
+  "info": "13341 tekens"
+ },
+ {
+  "name": "view voortgang rendert",
+  "pass": true,
+  "info": "699 tekens"
+ },
+ {
+  "name": "view audit rendert",
+  "pass": true,
+  "info": "17680 tekens"
+ },
+ {
+  "name": "hoofdstuk reglementen",
+  "pass": true,
+  "info": "5 delen"
+ },
+ {
+  "name": "hoofdstuk voorrang",
+  "pass": true,
+  "info": "13 delen"
+ },
+ {
+  "name": "hoofdstuk borden",
+  "pass": true,
+  "info": "7 delen"
+ },
+ {
+  "name": "hoofdstuk betonning",
+  "pass": true,
+  "info": "6 delen"
+ },
+ {
+  "name": "hoofdstuk lichten",
+  "pass": true,
+  "info": "6 delen"
+ },
+ {
+  "name": "hoofdstuk geluid",
+  "pass": true,
+  "info": "4 delen"
+ },
+ {
+  "name": "hoofdstuk sluizen",
+  "pass": true,
+  "info": "5 delen"
+ },
+ {
+  "name": "hoofdstuk navigatie",
+  "pass": true,
+  "info": "5 delen"
+ },
+ {
+  "name": "hoofdstuk kaartlezen",
+  "pass": true,
+  "info": "6 delen"
+ },
+ {
+  "name": "hoofdstuk marifoon",
+  "pass": true,
+  "info": "6 delen"
+ },
+ {
+  "name": "hoofdstuk veiligheid",
+  "pass": true,
+  "info": "10 delen"
+ },
+ {
+  "name": "hoofdstuk weer",
+  "pass": true,
+  "info": "4 delen"
+ },
+ {
+  "name": "hoofdstuk motoren",
+  "pass": true,
+  "info": "4 delen"
+ },
+ {
+  "name": "hoofdstuk ehbo",
+  "pass": true,
+  "info": "5 delen"
+ },
+ {
+  "name": "hoofdstuk wetgeving",
+  "pass": true,
+  "info": "6 delen"
+ },
+ {
+  "name": "hoofdstuk praktijk",
+  "pass": true,
+  "info": "11 delen"
+ },
+ {
+  "name": "hoofdstuk algemeen",
+  "pass": true,
+  "info": "6 delen"
+ },
+ {
+  "name": "simulatie manoeuvre",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie betonning",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie voorrang",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie sectoren",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie geluid",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie brug",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie doorvaart",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie route",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie schaal",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie getij",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie kompas",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "zoeken geeft resultaten",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie: 30 vragen 12/10/8",
+  "pass": true,
+  "info": "{\"R\":12,\"N\":10,\"V\":8}"
+ },
+ {
+  "name": "simulatie: geen onbevestigde en geen algemeen-vragen",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "simulatie: score klopt met antwoorden",
+  "pass": true,
+  "info": "score 10, Niet geslaagd"
+ },
+ {
+  "name": "simulatie: slaagregel 60% totaal + 50% per onderdeel",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "opslag: examen en antwoorden lokaal bewaard",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "100 extra gegenereerde examens bevatten geen onbevestigde vragen",
+  "pass": true,
+  "info": "0"
+ },
+ {
+  "name": "feedback bij fout antwoord: juist antwoord + uitleg + aanpak + gelijkaardige vraag",
+  "pass": true,
+  "info": "{\"expl\":true,\"verdict\":\"Fout\",\"aanpak\":true,\"juist\":true,\"sim\":true}"
+ },
+ {
+  "name": "gelijkaardige vraag opent een mini-quiz",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "mini-quiz geeft uitleg na antwoord",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "theorie: \"Test jezelf\" bij elk deel",
+  "pass": true,
+  "info": "12 knoppen"
+ },
+ {
+  "name": "theorie: mini-quiz per deel loopt tot resultaat",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "theorie: mini-quiz einde hoofdstuk start",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "theorie: hoofdstukken met mini-quiz",
+  "pass": true,
+  "info": "17/17"
+ },
+ {
+  "name": "vragenbank: filter Onbevestigd",
+  "pass": true,
+  "info": "18 vragen (totaal 20 incl. algemeen)"
+ },
+ {
+  "name": "vragenbank: niveau 1",
+  "pass": true,
+  "info": "318 vragen"
+ },
+ {
+  "name": "vragenbank: niveau 2",
+  "pass": true,
+  "info": "344 vragen"
+ },
+ {
+  "name": "vragenbank: niveau 3",
+  "pass": true,
+  "info": "648 vragen"
+ },
+ {
+  "name": "vragenbank: niveau 4",
+  "pass": true,
+  "info": "123 vragen"
+ },
+ {
+  "name": "vragenbank: examenfocus",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "niveautraining start (niveau 1, enkel niveau 1)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "examenfocus start (enkel focusvragen)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "willekeurig hoofdexamen (30)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "per categorie (betonning)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "foutenanalyse: fouten herhalen mogelijk",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "foutensessie bevat enkel laatst-foute vragen",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "flashcards: Leitner-doos opgeslagen",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "bibliotheek: onbevestigd item toont waarschuwing",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "audit: factcheckrapport + foutenlog",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "audit: foutenlog filtert",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "fase 1B: 65 nieuwe vragen (28 voorrangstekeningen, 14 praktijk)",
+  "pass": true,
+  "info": "{\"n\":65,\"img\":36,\"prak\":14,\"exr\":4,\"exrBad\":[],\"unv\":2}"
+ },
+ {
+  "name": "fase 1B: 4 examenreeksen van 30 bestaande vragen (gekoppelde mastervragen bevestigd)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "fase 1B: alle nieuwe tekeningen zichtbaar in de vraag",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "fase 1B: praktijkvragen niet in examensimulaties of algemene pool, wel apart te oefenen",
+  "pass": true,
+  "info": "{\"leak\":0,\"pool\":0,\"cat\":14,\"hard\":0}"
+ },
+ {
+  "name": "fase 1B: paneel examenreeksen met 8 knoppen",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "fase 1B: reeks 1 start als examen in de juiste volgorde, zonder onbevestigde vragen, eerste vraag met tekening",
+  "pass": true,
+  "info": "{\"n\":30,\"order\":true,\"unvLeft\":0,\"mode\":\"exam\",\"rule\":true,\"fig\":true}"
+ },
+ {
+  "name": "fase 1B: hoofdstuk praktijk toont 'Praktijk in beeld'",
+  "pass": true,
+  "info": "{\"n\":19,\"small\":0}"
+ },
+ {
+  "name": "fase 1B: hoofdstuk voorrang toont 'Voorrang in beeld'",
+  "pass": true,
+  "info": "{\"n\":9,\"small\":0}"
+ },
+ {
+  "name": "fase 1B: theorie praktijk bevat de nieuwe delen",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "fase 1B: bibliotheekcorrecties (L201 achteraanzicht, 7 dagmerken hernoemd)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "fase 1B: rapport in Kwaliteitscontrole met log, foutenlijst en inventarisverwijzing",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "fase 1B: log filtert",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "herladen: voortgang blijft bewaard",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "name": "mobiel 390px: geen horizontale scroll in dashboard",
+  "pass": true,
+  "info": "390 vs 390"
+ },
+ {
+  "name": "mobiel 390px: geen horizontale scroll in oefenexamens",
+  "pass": true,
+  "info": "390 vs 390"
+ },
+ {
+  "name": "mobiel 390px: geen horizontale scroll in vragen",
+  "pass": true,
+  "info": "390 vs 390"
+ },
+ {
+  "name": "mobiel 390px: geen horizontale scroll in audit",
+  "pass": true,
+  "info": "390 vs 390"
+ },
+ {
+  "name": "mobiel 390px: geen horizontale scroll in spiek",
+  "pass": true,
+  "info": "390 vs 390"
+ },
+ {
+  "name": "mobiel 390px: geen horizontale scroll in flashcards",
+  "pass": true,
+  "info": "390 vs 390"
+ },
+ {
+  "name": "mobiel 390px: geen horizontale scroll in afbeeldingen",
+  "pass": true,
+  "info": "390 vs 390"
+ },
+ {
+  "name": "mobiel 390px: geen horizontale scroll in theorie praktijk",
+  "pass": true,
+  "info": "390 vs 390"
+ },
+ {
+  "name": "mobiel 390px: geen horizontale scroll in theorie voorrang",
+  "pass": true,
+  "info": "390 vs 390"
+ },
+ {
+  "name": "mobiel: mini-quiz zonder horizontale scroll",
+  "pass": true,
+  "info": "390 vs 390"
+ },
+ {
+  "name": "geen JavaScript-fouten",
+  "pass": true,
+  "info": ""
+ }
+]
